@@ -1,4 +1,4 @@
-<img src="https://github.com/Barkty/aptitudeTest-back/blob/main/1.png" width='100%' alt='Banner'/>
+<img src="https://github.com/gbemi-monietab/aptitudeTest-back/blob/main/1.png" width='100%' alt='Banner'/>
 
 ### Hi there 👋
 
